@@ -1,20 +1,85 @@
-# Responsive Welcome, Login, and Sign up page - Flutter UI
+Welcome • Login • Signup Page (Flutter) – Community Edition
 
-### [Live Preview 🔴 ](https://abuanwar072.github.io/Welcome-Login-Signup-Page-Flutter/#/)
+This repository is a community-driven extension of a Flutter-based Welcome, Login, and Signup UI project.
+It is designed as a real-world practice project where contributors can upgrade a basic authentication UI into a more complete, production-ready solution.
 
-### [Watch it on YouTube](https://youtu.be/8gJ_WRmxyW0)
+📌 Project Origin & Credit
 
-**Packages we are using:**
+This project is forked from the original work by Abuanwar.
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+Original Repository: https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter
 
-### Checkout [Serverpod.dev](https://cutt.ly/Per1Z7ri) - The Flutter Backend
+Original Author: Abuanwar
 
-We design 3 responsive screens first one is a welcome screen the user opens your app it shows then users have two options if the user has an account then press the login button and it just shifts the user to the login screen, or if they don't have an account then press signup button its transfers to the signup screen. All of those screens work perfectly on Android, iOS, Web, and Desktop.
+Purpose of the original project:
+A clean and minimal Flutter UI for Welcome, Login, and Signup screens.
 
-**Specal Thanks to: Muhammad Hamza (@mhmzdev)**
+🙏 Full credit for the original UI design and base implementation goes to the original author.
 
-### Auth UI
+🎯 Purpose of This Fork
 
-![Preview UI](/preview.gif)
-![App UI](/UI.png)
+The original project provides a solid UI foundation, but it does not include real-world authentication features.
+
+This fork exists to turn that UI into a challenge-based, contributor-friendly project, where developers can work on:
+
+Authentication logic
+
+Routing and navigation
+
+State management
+
+Validation and error handling
+
+Backend integration
+
+Security best practices
+
+This makes the project ideal for learning, contribution, and real engineering challenges.
+
+🚀 What This Fork Aims to Add
+
+Planned and open improvements include:
+
+🔐 Login & Signup validation
+
+🧭 Proper routing and navigation flow
+
+🔄 Authentication state handling
+
+📩 Error and success feedback
+
+🔑 Backend or API integration (optional)
+
+🧪 Testing and code quality improvements
+
+🎨 UI/UX enhancements
+
+All improvements are tracked through GitHub Issues.
+
+🤝 Contributions Welcome
+
+This repository is beginner to intermediate friendly.
+
+You can contribute by:
+
+Improving UI components
+
+Adding authentication logic
+
+Implementing routing guards
+
+Refactoring code for clarity
+
+Adding documentation
+
+Writing tests
+
+👉 Please check the Issues tab for tasks labeled:
+
+good first issue
+
+beginner-friendly
+
+intermediate
+
+advanced
